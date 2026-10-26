@@ -12,7 +12,7 @@ StrixMCS Labs is the publishing imprint of StrixMCS. It issues the apps, tools a
 
 | Repository | What it is |
 |---|---|
-| [FanFictoAudio](https://github.com/strixmcs-labs/FanFictoAudio) | Native macOS app that downloads fanfiction as EPUB and turns it into audiobooks with macOS, OpenAI or ElevenLabs voices. |
+| [fanfic-to-audio](https://github.com/strixmcs-labs/fanfic-to-audio) | Native macOS app that downloads fanfiction as EPUB and turns it into audiobooks with macOS, OpenAI or ElevenLabs voices. |
 | [fanficfare-desktop](https://github.com/strixmcs-labs/fanficfare-desktop) | Standalone desktop interface for FanFicFare on macOS, Windows and Linux. |
 | [policies](https://github.com/strixmcs-labs/policies) | Privacy Policy and Terms of Service for StrixMCS Labs software. |
 
