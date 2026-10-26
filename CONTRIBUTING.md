@@ -25,7 +25,7 @@ Each StrixMCS Labs repository is set up the same way. The [brand system](https:/
   Knowledge · Society · Ascent
   [mattbooth.me](https://mattbooth.me) · `StrixMCS Labs · Dr. Matt Booth`
   ```
-- **Social preview.** 1280×640 on absolute black: the owl head on the left, the project's name in proper case in IBM Plex Mono 600 white, the byline beneath, and a credit line when the project builds on another. Commit it as `.github/social-preview.png` and upload it under Settings → General → Social preview.
+- **Social preview.** 1280×640 on absolute black: the StrixMCS logo (whole) on the left, the project's name in proper case in IBM Plex Mono 600 white, the byline beneath, and a credit line when the project builds on another. Commit it as `.github/social-preview.png` and upload it under Settings → General → Social preview.
 - **License and notice.** A `LICENSE`, and a `NOTICE` whose copyright line reads `StrixMCS Labs, Dr. Matt Booth, and other contributors`. Upstream licenses and notices stay with the upstream project.
 - **Images.** List every documentation image in `docs/IMAGES.md` with where it is used, alt text, a one-line caption, its capture date and its status.
 - **Voice.** Third person or imperative, precise, no emoji, normal case.

@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="strixmcs-labs-avatar.png" alt="StrixMCS owl head, the StrixMCS Labs mark" width="72">
+  <img src="strixmcs-labs-avatar.png" alt="StrixMCS logo" width="72">
 </p>
 
 # StrixMCS Labs
