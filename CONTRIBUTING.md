@@ -13,7 +13,7 @@ These guidelines apply to every StrixMCS Labs repository that does not carry its
 
 ## New repository checklist
 
-Each StrixMCS Labs repository is set up the same way. The [brand system](https://thatosxguy.github.io/StrixMCS-Branding/) is the authority; this is the short form.
+Each StrixMCS Labs repository is set up the same way. The private [design system](https://github.com/strixmcs-labs/StrixMCS-Design) is the authority; this is the short form.
 
 - **Name.** Plain, descriptive, lowercase and hyphenated. No `Strix` prefix; that belongs to the home.
 - **README header.** The project's name as the title, then the byline on one mono line: `StrixMCS Labs · Dr. Matt Booth`.
